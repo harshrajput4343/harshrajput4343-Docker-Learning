@@ -1,0 +1,17 @@
+why do we need docker?
+ans: 1) consistency across enviroment (different user machine behaves differently)
+     2)Isolation : multiple webskites hosted on single server , so we need isolation 
+     3)scalability: must be easily scalable
+
+Docker engine?
+ans: core component that is responsible for create manage and run the container
+
+Docker image?
+ans: light weight stand-alone , executable software that include everything ,
+that is needed to run the piece of software
+
+
+Docker -->  [cli-->rest api --> docker deamon]
+cli - rsponsible for interacting with deamon
+docker deamon - run on host machine , do everything
+
