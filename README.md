@@ -18,6 +18,6 @@ step 1 : docker login
 step 2 : docker push conatainer_name
 
 want to pull it from hub
-step1: docker pull harshrajput4343/laptop_price
-step 2:docker run -p 8501:8501 harshrajput4343/laptop_price
+step1 : docker pull harshrajput4343/laptop_price
+step 2  :docker run -p 8501:8501 harshrajput4343/laptop_price
 
