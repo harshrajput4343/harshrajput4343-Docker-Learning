@@ -7,7 +7,9 @@
 
 To run pulled image on docker : docker run -p 8501:8501 image-name  {here 8501-> you are using  and next 8501 is port on which it is running} Port mapping
 
-to build image :        docker build -t reponame  .
-to run         :        docker run -p 8501:5000 reponame 
+**to build image :        docker build -t reponame  .
+
+
+to run         :        docker run -p 8501:5000 reponame **
 
 
